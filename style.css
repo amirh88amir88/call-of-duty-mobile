@@ -1,0 +1,55 @@
+pre{
+    font-family: cursive;
+    font-size: 30px;
+    color: black;
+}
+strong{
+    font-family: cursive;
+    font-style: initial;
+    font-style: inherit;
+    font-size: 20px;
+}
+table,th,td{
+    border: 1px solid red;
+}
+table{
+    width: 60%;
+}
+th,td{
+    text-align: center;
+    padding: 10px;
+}
+td{
+    width: 30px;
+}
+tr:nth-child(even){
+    background-color: rgb(204, 248, 8);
+}
+tbody tr:hover{
+    background-color: blue;
+}
+div, caption{
+    font-family: cursive;
+    font-style: 100px;
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: rgb(121, 121, 211);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+h3{
+    color: black;
+    font-family: cursive;
+    font-size: 30px;
+}
+hr{
+    color: blue;
+}
+img{
+    border-radius: 10px;
+}
